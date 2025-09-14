@@ -1,4 +1,4 @@
-# Project_JBMX (map-only) — Official Repository
+# Project_JBMX (map-only) - Official Repository
 
 ## What is this?
 This is the official **open-source** release of the **Project_JBMX map** - **map only (terrain, models, lighting)** without gameplay mechanics.  
