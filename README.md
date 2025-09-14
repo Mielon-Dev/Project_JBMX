@@ -12,7 +12,7 @@ Every game using this map **MUST**:
 ⚠️ Removing, hiding, or editing credits is **strictly forbidden** (see LICENSE).
 
 ## How to use
-1. Download selected `.rbxlx` file.
+1. Download selected `.rbxl` file.
 2. Open it in Roblox Studio (`File > Open`).
 3. Do **NOT** remove `License` in `StarterGui`.
 
