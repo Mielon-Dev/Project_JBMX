@@ -11,6 +11,9 @@ Every game using this map **MUST**:
 
 ⚠️ Removing, hiding, or editing credits is **strictly forbidden** (see LICENSE).
 
+## Important!
+We DON'T HAVE the rights to all models on the map. Remember to credit original Jailbreak authors.
+
 ## How to use
 1. Download selected `.rbxl` file.
 2. Open it in Roblox Studio (`File > Open`).
