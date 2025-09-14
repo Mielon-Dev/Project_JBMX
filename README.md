@@ -7,4 +7,4 @@ Released by: **@MielonDev** and **@0Szysza**.
 ## Required credits (read carefully)
 Every game using this map **MUST**:
 - keep the `ScreenGui` named `License` (shows text: `This map was created by Mielon and Szysza`) visible immediately when the player joins (it's already in `StarterGUI` in both `.rbxl` files),
-- include the following line in the game description:  `Project_JBMX map authors: @MielonDev and @0Szysza.`
+- include the following line in the game description: `Project_JBMX map authors: @MielonDev and @0Szysza.`
