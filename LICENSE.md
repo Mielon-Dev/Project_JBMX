@@ -1,4 +1,4 @@
-#PROJECT_JBMX MAP OPEN LICENSE v1.0
+# PROJECT_JBMX MAP OPEN LICENSE v1.0
 
 Preamble
 The "Project_JBMX" map (hereinafter "the Map") is released by the authors @MielonDev and @0Szysza under the terms of this license.  
